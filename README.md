@@ -1,2 +1,2 @@
 # Atividade-Elevador
-Atividade fita por Rafaela e Lívia, 3DS
+Atividade feita por Rafaela e Lívia, 3DS
